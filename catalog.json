@@ -175,6 +175,58 @@
       "category": "tools",
       "users": 10000,
       "rating": 4
+    },
+    {
+      "id": "ahbepdkgicljkjjjnogljplljdocjjmo",
+      "storeId": "ahbepdkgicljkjjjnogljplljdocjjmo",
+      "name": "TwiHD - вернет качество 1080p на Twitch",
+      "desc": "Возвращает качество 1080p на Twitch",
+      "category": "tools",
+      "icon": "📺",
+      "version": "1.0.5",
+      "rating": 4.2,
+      "users": "100000",
+      "compatible": true,
+      "inStore": true
+    },
+    {
+      "id": "jddgbeighonaipjikdnfdpiefhoomlae",
+      "storeId": "jddgbeighonaipjikdnfdpiefhoomlae",
+      "name": "ЮБуст - VPN для YouTube",
+      "desc": "Обход блокировки YouTube",
+      "category": "tools",
+      "icon": "🚀",
+      "version": "8.11.9",
+      "rating": 4.3,
+      "users": "500000",
+      "compatible": true,
+      "inStore": true
+    },
+    {
+      "id": "laddjijkcfpakbbnnedbhnnciecidncp",
+      "storeId": "laddjijkcfpakbbnnedbhnnciecidncp",
+      "name": "Поиск Яндексa",
+      "desc": "Поиск от Яндекса",
+      "category": "tools",
+      "icon": "🔍",
+      "version": "9.0.8",
+      "rating": 4.1,
+      "users": "1000000",
+      "compatible": true,
+      "inStore": true
+    },
+    {
+      "id": "pdhpeledmdfpkgledkccaopojignimeo",
+      "storeId": "pdhpeledmdfpkgledkccaopojignimeo",
+      "name": "UchiX",
+      "desc": "Помощник для учёбы",
+      "category": "tools",
+      "icon": "📚",
+      "version": "4.9.2",
+      "rating": 4,
+      "users": "50000",
+      "compatible": true,
+      "inStore": true
     }
   ]
 }
