@@ -1,270 +1,141 @@
-﻿{
-    "extensions":  [
-                       {
-                           "rating":  4.5,
-                           "id":  "adblock-plus",
-                           "desc":  "Блокировка рекламы и всплывающих окон",
-                           "sizeKB":  82645,
-                           "version":  "4.41.0",
-                           "category":  "security",
-                           "users":  "25000000",
-                           "icon":  "➖",
-                           "inStore":  true,
-                           "name":  "Adblock Plus",
-                           "storeId":  "cfhdojbkjhnklbpkdaibdccddilifddb",
-                           "compatible":  true
-                       },
-                       {
-                           "rating":  4.7,
-                           "id":  "return-yt",
-                           "desc":  "Возвращает счётчик дизлайков на YouTube",
-                           "sizeKB":  1258,
-                           "version":  "4.0.4",
-                           "category":  "tools",
-                           "users":  "3000000",
-                           "icon":  "👎",
-                           "inStore":  true,
-                           "name":  "Return YouTube Dislike",
-                           "storeId":  "gebbhagfogifgggkldgodflihgfeippi",
-                           "compatible":  true
-                       },
-                       {
-                           "rating":  4.5,
-                           "id":  "react-dev",
-                           "desc":  "Инструменты разработки React",
-                           "version":  "5.1.0",
-                           "category":  "dev",
-                           "users":  "5000000",
-                           "icon":  "⚛",
-                           "inStore":  false,
-                           "name":  "React Developer Tools",
-                           "storeId":  "fmkadmapgofadopljbjfkapdkoienihi",
-                           "compatible":  true,
-                           "note":  "Требуется установка в Chrome/Edge для копирования"
-                       },
-                       {
-                           "rating":  4.6,
-                           "id":  "vue-dev",
-                           "desc":  "Отладка Vue.js приложений",
-                           "version":  "7.3.3",
-                           "category":  "dev",
-                           "users":  "2000000",
-                           "icon":  "🔧",
-                           "inStore":  false,
-                           "name":  "Vue.js DevTools",
-                           "storeId":  "nhdogjmejiglipccpnnnanhbledajbpd",
-                           "compatible":  true,
-                           "note":  "Требуется установка в Chrome/Edge для копирования"
-                       },
-                       {
-                           "rating":  4.4,
-                           "id":  "onedark",
-                           "desc":  "Тёмная тема в стиле Atom",
-                           "version":  "3.15.18",
-                           "category":  "appearance",
-                           "users":  "1000000",
-                           "icon":  "🎨",
-                           "inStore":  false,
-                           "name":  "One Dark Pro",
-                           "storeId":  "onecmejlmcchkcehkkpfgaimppggoeae",
-                           "compatible":  true
-                       },
-                       {
-                           "rating":  4.3,
-                           "id":  "json-viewer",
-                           "desc":  "Форматирование и подсветка JSON",
-                           "version":  "1.5.0",
-                           "category":  "tools",
-                           "users":  "3000000",
-                           "icon":  "📋",
-                           "inStore":  false,
-                           "name":  "JSON Viewer",
-                           "storeId":  "gbmdgpbipflnffggblihaemoilccbplk",
-                           "compatible":  true
-                       },
-                       {
-                           "rating":  4.1,
-                           "id":  "stylish",
-                           "desc":  "Пользовательские стили CSS",
-                           "version":  "3.4.0",
-                           "category":  "appearance",
-                           "users":  "5000000",
-                           "icon":  "💅",
-                           "inStore":  false,
-                           "name":  "Stylish",
-                           "storeId":  "fjnbnpbmkenffdnngjfgmeleoegfcffe",
-                           "compatible":  true
-                       },
-                       {
-                           "rating":  4.5,
-                           "id":  "onetab",
-                           "desc":  "Экономия до 95% памяти",
-                           "version":  "1.60",
-                           "category":  "tools",
-                           "users":  "4000000",
-                           "icon":  "📑",
-                           "inStore":  false,
-                           "name":  "OneTab",
-                           "storeId":  "chphlpgkkbolifaimnlloiipkdnihall",
-                           "compatible":  true
-                       },
-                       {
-                           "rating":  4.6,
-                           "id":  "keepa",
-                           "desc":  "История цен на Amazon",
-                           "version":  "4.4.0",
-                           "category":  "tools",
-                           "users":  "2000000",
-                           "icon":  "📊",
-                           "inStore":  false,
-                           "name":  "Keepa",
-                           "storeId":  "neebplgakaahbhdphmkckjjcegoiijjo",
-                           "compatible":  true
-                       },
-                       {
-                           "rating":  4.5,
-                           "id":  "language-tool",
-                           "desc":  "Проверка грамматики на 30+ языках",
-                           "version":  "6.5.0",
-                           "category":  "tools",
-                           "users":  "3000000",
-                           "icon":  "🌍",
-                           "inStore":  false,
-                           "name":  "LanguageTool",
-                           "storeId":  "oldceeleldhonbafppcapldpdifcinji",
-                           "compatible":  true
-                       },
-                       {
-                           "rating":  4.6,
-                           "id":  "octotree",
-                           "desc":  "Древовидный просмотр GitHub",
-                           "version":  "9.4.1",
-                           "category":  "dev",
-                           "users":  "1000000",
-                           "icon":  "🌳",
-                           "inStore":  false,
-                           "name":  "Octotree",
-                           "storeId":  "bkhaagjahfmjljalopjnoealnfndnagc",
-                           "compatible":  true
-                       },
-                       {
-                           "rating":  4.6,
-                           "id":  "enhancer-yt",
-                           "desc":  "Расширенные функции для YouTube",
-                           "version":  "2.0.120",
-                           "category":  "tools",
-                           "users":  "4000000",
-                           "icon":  "▶️",
-                           "inStore":  false,
-                           "name":  "Enhancer for YouTube",
-                           "storeId":  "ponfpcnoihfmfllnhjjlcoipacmdjajj",
-                           "compatible":  true
-                       },
-                       {
-                           "rating":  4.8,
-                           "id":  "sponsorblock",
-                           "desc":  "Пропуск рекламных интеграций",
-                           "version":  "5.8.5",
-                           "category":  "tools",
-                           "users":  "2000000",
-                           "icon":  "⏭",
-                           "inStore":  false,
-                           "name":  "SponsorBlock",
-                           "storeId":  "mnjggcdmjcnhhfhfcfddfhbdgkbehblj",
-                           "compatible":  true
-                       },
-                       {
-                           "rating":  4.6,
-                           "id":  "session-buddy",
-                           "desc":  "Управление сессиями вкладок",
-                           "version":  "4.8.0",
-                           "category":  "tools",
-                           "users":  "2000000",
-                           "icon":  "🔖",
-                           "inStore":  false,
-                           "name":  "Session Buddy",
-                           "storeId":  "edacconmaakjimmfgnblocblbcdcpbko",
-                           "compatible":  true
-                       },
-                       {
-                           "rating":  4.6,
-                           "id":  "go-full-page",
-                           "desc":  "Скриншот всей страницы",
-                           "version":  "7.8.0",
-                           "category":  "tools",
-                           "users":  "3000000",
-                           "icon":  "📷",
-                           "inStore":  false,
-                           "name":  "GoFullPage",
-                           "storeId":  "fdpohaocaechififmbbbbbknoalclacl",
-                           "compatible":  true
-                       },
-                       {
-                           "rating":  4.6,
-                           "id":  "video-speed",
-                           "desc":  "Управление скоростью видео",
-                           "version":  "0.8.1",
-                           "category":  "tools",
-                           "users":  "2000000",
-                           "icon":  "⏩",
-                           "inStore":  false,
-                           "name":  "Video Speed Controller",
-                           "storeId":  "nffaoalbilbmmfgbnbgppjihopabppdk",
-                           "compatible":  true
-                       },
-                       {
-                           "rating":  4.5,
-                           "id":  "colorzilla",
-                           "desc":  "Пипетка цветов для вэба",
-                           "version":  "4.5.0",
-                           "category":  "dev",
-                           "users":  "3000000",
-                           "icon":  "🎨",
-                           "inStore":  false,
-                           "name":  "ColorZilla",
-                           "storeId":  "bhlhnicpbhoccbdggdinoefenfgiekge",
-                           "compatible":  true
-                       },
-                       {
-                           "rating":  4.5,
-                           "id":  "tab-suspender",
-                           "desc":  "Выгрузка неиспользуемых вкладок",
-                           "version":  "1.5.2",
-                           "category":  "tools",
-                           "users":  "500000",
-                           "icon":  "💤",
-                           "inStore":  false,
-                           "name":  "Auto Tab Discard",
-                           "storeId":  "fllkjagambcdijobmjmkjlhfopincdpo",
-                           "compatible":  true
-                       },
-                       {
-                           "rating":  4.4,
-                           "id":  "reader-mode",
-                           "desc":  "Режим чтения без рекламы",
-                           "version":  "3.1.0",
-                           "category":  "tools",
-                           "users":  "2000000",
-                           "icon":  "📖",
-                           "inStore":  false,
-                           "name":  "Reader Mode",
-                           "storeId":  "llimhhconnjiflfimocjjggbhgljcnje",
-                           "compatible":  true
-                       },
-                       {
-                           "rating":  4.5,
-                           "id":  "redux-dev",
-                           "desc":  "Отладка состояния Redux",
-                           "version":  "3.0.10",
-                           "category":  "dev",
-                           "users":  "4000000",
-                           "icon":  "🔄",
-                           "inStore":  false,
-                           "name":  "Redux DevTools",
-                           "storeId":  "lmhkpmbekcpmknklioeibfkpmmfibljd",
-                           "compatible":  true
-                       }
-                   ],
-    "source":  "m-extensions-github",
-    "updated":  "2026-06-27"
+{
+  "updated": "2026-06-27",
+  "extensions": [
+    {
+      "id": "ammjkodgmmoknidbanneddgankgfejfh",
+      "storeId": "ammjkodgmmoknidbanneddgankgfejfh",
+      "name": "7TV",
+      "version": "3.1.22",
+      "compatible": true,
+      "inStore": true,
+      "zipSizeKB": 3716,
+      "permissions": [
+        "scripting",
+        "storage",
+        "activeTab"
+      ],
+      "icon": "."
+    },
+    {
+      "id": "bglibfjmlfdbdeofhmgmhblgpjldlikf",
+      "storeId": "bglibfjmlfdbdeofhmgmhblgpjldlikf",
+      "name": "Screenshot Helper",
+      "version": "0.0.3",
+      "compatible": true,
+      "inStore": true,
+      "zipSizeKB": 19,
+      "permissions": [
+        "activeTab",
+        "downloads"
+      ],
+      "icon": "i"
+    },
+    {
+      "id": "bgopmpphpeghjpififijeoaojmmaiibh",
+      "storeId": "bgopmpphpeghjpififijeoaojmmaiibh",
+      "name": "Twitch Chat for Full Screen",
+      "version": "3.0.0",
+      "compatible": true,
+      "inStore": true,
+      "zipSizeKB": 424,
+      "permissions": [],
+      "icon": "icons/icon-16.png"
+    },
+    {
+      "id": "gebbhagfogifgggkldgodflihgfeippi",
+      "storeId": "gebbhagfogifgggkldgodflihgfeippi",
+      "name": "Return YouTube Dislike",
+      "version": "4.0.4",
+      "compatible": true,
+      "inStore": true,
+      "zipSizeKB": 1258,
+      "permissions": [
+        "storage"
+      ]
+    },
+    {
+      "id": "jhkfddihpaahlogkaaljcfjlfpiomacl",
+      "storeId": "jhkfddihpaahlogkaaljcfjlfpiomacl",
+      "name": "__MSG_APPNAME__",
+      "version": "1.1.4",
+      "compatible": true,
+      "inStore": true,
+      "zipSizeKB": 76,
+      "permissions": [
+        "storage"
+      ]
+    },
+    {
+      "id": "kbbdnbaghpcjpdhbjbccadodjejlkkgg",
+      "storeId": "kbbdnbaghpcjpdhbjbccadodjejlkkgg",
+      "name": "Twitch Channel Points Bonus Collector",
+      "version": "2.1.0",
+      "compatible": true,
+      "inStore": true,
+      "zipSizeKB": 11,
+      "permissions": []
+    },
+    {
+      "id": "mdgdgieddpndgjlmeblhjgljejejkikf",
+      "storeId": "mdgdgieddpndgjlmeblhjgljejejkikf",
+      "name": "YouTube Redux",
+      "version": "3.12.0",
+      "compatible": true,
+      "inStore": true,
+      "zipSizeKB": 338,
+      "permissions": [
+        "activeTab",
+        "storage",
+        "scripting"
+      ],
+      "icon": "images/16.png"
+    },
+    {
+      "id": "cfhdojbkjhnklbpkdaibdccddilifddb",
+      "storeId": "cfhdojbkjhnklbpkdaibdccddilifddb",
+      "name": "__MSG_name_releasebuild__",
+      "version": "4.41.0",
+      "compatible": false,
+      "reason": "Требует: contextMenus, notifications, webNavigation",
+      "inStore": true,
+      "zipSizeKB": 82645,
+      "permissions": [
+        "alarms",
+        "contextMenus",
+        "declarativeNetRequestWithHostAccess",
+        "notifications",
+        "scripting",
+        "storage",
+        "tabs",
+        "unlimitedStorage",
+        "webNavigation",
+        "webRequest"
+      ],
+      "icon": "icons/abp-16.png"
+    },
+    {
+      "id": "gighmmpiobklfepjocnamgkkbiglidom",
+      "storeId": "gighmmpiobklfepjocnamgkkbiglidom",
+      "name": "__MSG_name__",
+      "version": "6.42.1",
+      "compatible": false,
+      "reason": "Требует: contextMenus, notifications, webNavigation",
+      "inStore": true,
+      "zipSizeKB": 50999,
+      "permissions": [
+        "alarms",
+        "contextMenus",
+        "declarativeNetRequestWithHostAccess",
+        "idle",
+        "notifications",
+        "scripting",
+        "storage",
+        "tabs",
+        "unlimitedStorage",
+        "webNavigation",
+        "webRequest"
+      ],
+      "icon": "icons/adblock-16.png"
+    }
+  ]
 }
