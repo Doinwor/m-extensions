@@ -14,7 +14,11 @@
         "storage",
         "activeTab"
       ],
-      "icon": "."
+      "icon": ".",
+      "desc": "Эмодзи и кастомные смайлы для Twitch",
+      "category": "tools",
+      "users": 500000,
+      "rating": 4.5
     },
     {
       "id": "bglibfjmlfdbdeofhmgmhblgpjldlikf",
@@ -28,7 +32,11 @@
         "activeTab",
         "downloads"
       ],
-      "icon": "i"
+      "icon": "i",
+      "desc": "Скриншоты всей страницы",
+      "category": "tools",
+      "users": 100000,
+      "rating": 4.3
     },
     {
       "id": "bgopmpphpeghjpififijeoaojmmaiibh",
@@ -39,7 +47,11 @@
       "inStore": true,
       "zipSizeKB": 424,
       "permissions": [],
-      "icon": "icons/icon-16.png"
+      "icon": "icons/icon-16.png",
+      "desc": "Чат Twitch в полноэкранном режиме",
+      "category": "tools",
+      "users": 100000,
+      "rating": 4.2
     },
     {
       "id": "gebbhagfogifgggkldgodflihgfeippi",
@@ -51,19 +63,29 @@
       "zipSizeKB": 1258,
       "permissions": [
         "storage"
-      ]
+      ],
+      "desc": "Расширение для браузера M.",
+      "category": "tools",
+      "icon": "🧩",
+      "users": 10000,
+      "rating": 4
     },
     {
       "id": "jhkfddihpaahlogkaaljcfjlfpiomacl",
       "storeId": "jhkfddihpaahlogkaaljcfjlfpiomacl",
-      "name": "__MSG_APPNAME__",
+      "name": "Ютуб повтор",
       "version": "1.1.4",
       "compatible": true,
       "inStore": true,
       "zipSizeKB": 76,
       "permissions": [
         "storage"
-      ]
+      ],
+      "desc": "Автоматический повтор видео на YouTube",
+      "category": "tools",
+      "icon": "🔁",
+      "users": 200000,
+      "rating": 4.4
     },
     {
       "id": "kbbdnbaghpcjpdhbjbccadodjejlkkgg",
@@ -73,7 +95,12 @@
       "compatible": true,
       "inStore": true,
       "zipSizeKB": 11,
-      "permissions": []
+      "permissions": [],
+      "desc": "Автосбор бонусов каналов Twitch",
+      "category": "tools",
+      "icon": "⭐",
+      "users": 200000,
+      "rating": 4.6
     },
     {
       "id": "mdgdgieddpndgjlmeblhjgljejejkikf",
@@ -88,12 +115,16 @@
         "storage",
         "scripting"
       ],
-      "icon": "images/16.png"
+      "icon": "images/16.png",
+      "desc": "Улучшенный интерфейс YouTube",
+      "category": "tools",
+      "users": 50000,
+      "rating": 4.3
     },
     {
       "id": "cfhdojbkjhnklbpkdaibdccddilifddb",
       "storeId": "cfhdojbkjhnklbpkdaibdccddilifddb",
-      "name": "__MSG_name_releasebuild__",
+      "name": "Adblock Plus - бесплатный блокировщик рекламы",
       "version": "4.41.0",
       "compatible": false,
       "reason": "Требует: contextMenus, notifications, webNavigation",
@@ -111,12 +142,16 @@
         "webNavigation",
         "webRequest"
       ],
-      "icon": "icons/abp-16.png"
+      "icon": "icons/abp-16.png",
+      "desc": "Расширение для браузера M.",
+      "category": "tools",
+      "users": 10000,
+      "rating": 4
     },
     {
       "id": "gighmmpiobklfepjocnamgkkbiglidom",
       "storeId": "gighmmpiobklfepjocnamgkkbiglidom",
-      "name": "__MSG_name__",
+      "name": "AdBlock – блокировка рекламы в Интернете",
       "version": "6.42.1",
       "compatible": false,
       "reason": "Требует: contextMenus, notifications, webNavigation",
@@ -135,7 +170,11 @@
         "webNavigation",
         "webRequest"
       ],
-      "icon": "icons/adblock-16.png"
+      "icon": "icons/adblock-16.png",
+      "desc": "Расширение для браузера M.",
+      "category": "tools",
+      "users": 10000,
+      "rating": 4
     }
   ]
 }
